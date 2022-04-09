@@ -12,3 +12,6 @@ The repository contains a list of the projects and notebooks which we have worke
 
 [**3. PRETRAINING ROBERTA MODEL**](https://github.com/ThinamXx/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/03.%20Pretraining%20RoBERTa%20Model)
 - The **RoBERTa** Model notebook contains information about Loading Dataset, Training a Tokenizer, Saving & Loading Trained Tokenizer, Model Configurations, Model Parameters, Data Collator, Transformer Trainer and Pretraining Language Modeling.
+
+[**4. NLP TASKS WITH TRANSFORMERS**](https://github.com/ThinamXx/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/04.%20NLP%20Tasks%20with%20Transformers) 
+- The **Transformers** notebook contains information about Transformers, Corpus of Linguistic Acceptability, Stanford Sentiment Treebank, Microsoft Research Paraphrase Corpus and Winograd Schemas.
