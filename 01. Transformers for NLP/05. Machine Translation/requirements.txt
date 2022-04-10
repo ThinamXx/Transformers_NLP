@@ -1,0 +1,7 @@
+transformers
+os
+pathlib
+tensorflow
+pandas
+numpy
+trax
