@@ -2,7 +2,7 @@
 
 The repository contains a list of the projects and notebooks which we have worked on while reading the book **Transformers for Natural Language Processing**.
 
-### **📚NOTEBOOKS:**
+## **📚NOTEBOOKS:**
 
 [**1. TRANSFORMER ARCHITECTURE**](https://github.com/ThinamXx/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/01.%20Transformer%20Architecture) 
 - The **Positional Encoding** notebook contains information about Positional Encoding, Word Embeddings and Positional Vectors. The **Transformer Architecture** notebook contains information about Input Embedding, Multi-head Attention, Weight Matrices, Matrix Multiplication and Attention Representations.
@@ -15,3 +15,6 @@ The repository contains a list of the projects and notebooks which we have worke
 
 [**4. NLP TASKS WITH TRANSFORMERS**](https://github.com/ThinamXx/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/04.%20NLP%20Tasks%20with%20Transformers) 
 - The **Transformers** notebook contains information about Transformers, Corpus of Linguistic Acceptability, Stanford Sentiment Treebank, Microsoft Research Paraphrase Corpus and Winograd Schemas.
+
+[**5. MACHINE TRANSLATION**](https://github.com/ThinamXx/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/05.%20Machine%20Translation) 
+- The **Machine Translation** notebook contains information about Machine Translation, Preprocessing Dataset, Vocabulary & OOV Words, Bilingual Evaluation Understudy Score, Trax & Transformer Model, Tokenization and Decoding.
