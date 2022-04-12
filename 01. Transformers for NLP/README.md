@@ -24,3 +24,6 @@ The repository contains a list of the projects and notebooks which we have worke
 
 [**7. T5 MODEL**](https://github.com/ThinamXx/Transformers_NLP/blob/main/01.%20Transformers%20for%20NLP/07.%20Summarization%20with%20T5/T5Model.ipynb)
 - The T5 Model notebook contains information about Architecture of T5 Model, Encoder and Decoder Blocks, Summarizing Documents with T5 Model and Transformer Models.
+
+[**8. Tokenizers & Datasets**](https://github.com/ThinamXx/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/08.%20Tokenizers%20%26%20Datasets) 
+- The **Tokenizers & Datasets** notebook contains information about Preprocessing and Postprocessing, Tokenization, Training Word2Vec Model, Cosine Similarity, Trained Unconditional Samples and Transformer Models such as T5 and GPT.
