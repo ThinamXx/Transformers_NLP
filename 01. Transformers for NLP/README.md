@@ -21,3 +21,6 @@ The repository contains a list of the projects and notebooks which we have worke
 
 [**6. TEXT GENERATION WITH GPT-2**](https://github.com/ThinamXx/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/06.%20Text%20Generation%20GPT-2)
 - The **GPT2 Model** notebook contains information about OpenAI GPT2 Model, Encoding and Training GPT2 Model, Transformers, Reformers, PET, Text Completion and Language Models.
+
+[**7. T5 MODEL**](https://github.com/ThinamXx/Transformers_NLP/blob/main/01.%20Transformers%20for%20NLP/07.%20Summarization%20with%20T5/T5Model.ipynb)
+- The T5 Model notebook contains information about Architecture of T5 Model, Encoder and Decoder Blocks, Summarizing Documents with T5 Model and Transformer Models.
