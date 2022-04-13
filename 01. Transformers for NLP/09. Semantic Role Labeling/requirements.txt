@@ -1,0 +1,6 @@
+transformers
+os
+allennlp
+gensim
+pandas
+numpy
