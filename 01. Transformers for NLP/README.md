@@ -32,4 +32,7 @@ The repository contains a list of the projects and notebooks which we have worke
 - The **Semantic Role Labeling** notebook contains information about Semantic Role Labeling and BERT Transformer Model. SRL tasks are difficult for both humans and machines. BERT based transformer can perform predicate sense disambiguation.
 
 [**10. QUESTION ANSWERING**](https://github.com/ThinamXx/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/10.%20Question%20Answering)
-- The Question Answer notebook contains information about Question Answering with Pretrained Transformer Model and Tokenizers, Semantic Role Labeling, Electra Model, Haystack and RoBERTa model.
+- The **Question Answer** notebook contains information about Question Answering with Pretrained Transformer Model and Tokenizers, Semantic Role Labeling, Electra Model, Haystack and RoBERTa model.
+
+[**11. SENTIMENT ANALYSIS**](https://github.com/ThinamXx/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/11.%20Sentiment%20Analysis)
+- The **Sentiment Analysis** notebook contains information about Sentiment Analysis with RoBERTa, DistilBERT, Stanford Sentiment Treebank, Compositionality and BERT-base Multilingual Model.
