@@ -36,3 +36,6 @@ The repository contains a list of the projects and notebooks which we have worke
 
 [**11. SENTIMENT ANALYSIS**](https://github.com/ThinamXx/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/11.%20Sentiment%20Analysis)
 - The **Sentiment Analysis** notebook contains information about Sentiment Analysis with RoBERTa, DistilBERT, Stanford Sentiment Treebank, Compositionality and BERT-base Multilingual Model.
+
+[**12. ANALYZING FAKE NEWS**](https://github.com/ThinamXx/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/12.%20Analyzing%20Fake%20News)
+- The **Fake News** notebook contains information about Analyzing Fake News with Transformers, Sentiment Analysis, Named Entity Recognition and Semantic Role Labeling.
