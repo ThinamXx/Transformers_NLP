@@ -3,3 +3,5 @@ pandas
 matplotlib
 torch
 datasets
+numpy
+umap
