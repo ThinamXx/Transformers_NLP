@@ -2,3 +2,5 @@ transformers
 torch
 bertviz
 math
+pandas
+matplotlib
