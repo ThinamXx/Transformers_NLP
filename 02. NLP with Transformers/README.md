@@ -12,3 +12,6 @@ The repository contains a list of the projects and notebooks which we have worke
 
 [**3. TRANSFORMER ANATOMY**](https://github.com/ThinamXx/Transformers_NLP/tree/main/02.%20NLP%20with%20Transformers/03.%20Transformer%20Anatomy)
 - The **Transformer Anatomy** notebook contains information and implementation of The Encoder Transformer Architecture, Scaled Dot Product Attention, Tokenization, Embedding Layer, Softmax Activation Function, Multi-head Attention, Feed-Forward Layer, Layer Normalization and The Decoder Transformer.
+
+[**4. NAMED ENTITY RECOGNITION**](https://github.com/ThinamXx/Transformers_NLP/tree/main/02.%20NLP%20with%20Transformers/04.%20Named%20Entity%20Recognition)
+- The **NER** notebook contains information and implementation of Named Entity Recognition, PAN-X Dataset, Multilingual Transformers, Tokenization, SentencePiece Tokenizer, Performance Measures, Fine-Tuning XLM-Roberta, Error Analysis, Cross-Lingual Transfer and Fine-Tuning with Multiple Languages.
