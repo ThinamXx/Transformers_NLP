@@ -15,3 +15,6 @@ The repository contains a list of the projects and notebooks which we have worke
 
 [**4. NAMED ENTITY RECOGNITION**](https://github.com/ThinamXx/Transformers_NLP/tree/main/02.%20NLP%20with%20Transformers/04.%20Named%20Entity%20Recognition)
 - The **NER** notebook contains information and implementation of Named Entity Recognition, PAN-X Dataset, Multilingual Transformers, Tokenization, SentencePiece Tokenizer, Performance Measures, Fine-Tuning XLM-Roberta, Error Analysis, Cross-Lingual Transfer and Fine-Tuning with Multiple Languages.
+
+[**5. TEXT GENERATION**](https://github.com/ThinamXx/Transformers_NLP/tree/main/02.%20NLP%20with%20Transformers/05.%20Text%20Generation)
+- The **Text Generation** notebook contains information and implementation of Greedy Search Decoding, Beam Search Decoding, Sampling Methods, Top-k and Nucleus Sampling.
