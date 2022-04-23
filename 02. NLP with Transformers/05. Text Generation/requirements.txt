@@ -1,6 +1,4 @@
 transformers
 pandas
-matplotlib
 torch
-datasets
 numpy
