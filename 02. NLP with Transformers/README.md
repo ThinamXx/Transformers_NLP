@@ -18,3 +18,6 @@ The repository contains a list of the projects and notebooks which we have worke
 
 [**5. TEXT GENERATION**](https://github.com/ThinamXx/Transformers_NLP/tree/main/02.%20NLP%20with%20Transformers/05.%20Text%20Generation)
 - The **Text Generation** notebook contains information and implementation of Greedy Search Decoding, Beam Search Decoding, Sampling Methods, Top-k and Nucleus Sampling.
+
+[**6. TEXT SUMMARIZATION**](https://github.com/ThinamXx/Transformers_NLP/tree/main/02.%20NLP%20with%20Transformers/06.%20Summarization)
+- The **Summarization** notebook contains information and implementation of The CNN and DailyMail Dataset, Text Summarization Pipelines, Summarization with PEGASUS, Comparing Summaries, Quality Measurement, BLEU and ROUGE Metrics and Training Summarization Model.
