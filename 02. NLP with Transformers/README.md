@@ -21,3 +21,6 @@ The repository contains a list of the projects and notebooks which we have worke
 
 [**6. TEXT SUMMARIZATION**](https://github.com/ThinamXx/Transformers_NLP/tree/main/02.%20NLP%20with%20Transformers/06.%20Summarization)
 - The **Summarization** notebook contains information and implementation of The CNN and DailyMail Dataset, Text Summarization Pipelines, Summarization with PEGASUS, Comparing Summaries, Quality Measurement, BLEU and ROUGE Metrics and Training Summarization Model.
+
+[**7. QUESTION ANSWERING**](https://github.com/ThinamXx/Transformers_NLP/tree/main/02.%20NLP%20with%20Transformers/07.%20Question%20Answering)
+- The **Question Answering** notebook contains information and implementation about SubjQA Dataset, Transformers Pipeline, Dealing Long Sequences, Haystack, Document Store, Retriever and Reader.
