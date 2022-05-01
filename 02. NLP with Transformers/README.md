@@ -24,3 +24,6 @@ The repository contains a list of the projects and notebooks which we have worke
 
 [**7. QUESTION ANSWERING**](https://github.com/ThinamXx/Transformers_NLP/tree/main/02.%20NLP%20with%20Transformers/07.%20Question%20Answering)
 - The **Question Answering** notebook contains information and implementation about SubjQA Dataset, Transformers Pipeline, Dealing Long Sequences, Haystack, Document Store, Retriever and Reader.
+
+[**8. TRANSFORMERS IN PRODUCTION**](https://github.com/ThinamXx/Transformers_NLP/tree/main/02.%20NLP%20with%20Transformers/08.%20Transformers%20in%20Production)
+- The **Transformers & Production** notebook contains information and implementation of Case Study: Intent Detection, Performance Benchmark, Computing Accuracy, Model Size, Knowledge Distillation, KL Divergence, Hyperparameters with Optuna, Model Quantization, Optimization with ONNX and ONNX Runtime.
