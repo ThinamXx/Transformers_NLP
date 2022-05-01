@@ -1,0 +1,13 @@
+transformers
+pandas
+torch
+numpy
+datasets
+matplotlib
+optuna
+onnx
+onnxruntime
+scipy
+pathlib
+time
+psutil
