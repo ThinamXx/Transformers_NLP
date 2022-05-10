@@ -27,3 +27,6 @@ The repository contains a list of the projects and notebooks which we have worke
 
 [**8. TRANSFORMERS IN PRODUCTION**](https://github.com/ThinamXx/Transformers_NLP/tree/main/02.%20NLP%20with%20Transformers/08.%20Transformers%20in%20Production)
 - The **Transformers & Production** notebook contains information and implementation of Case Study: Intent Detection, Performance Benchmark, Computing Accuracy, Model Size, Knowledge Distillation, KL Divergence, Hyperparameters with Optuna, Model Quantization, Optimization with ONNX and ONNX Runtime.
+
+[**9. DEALING WITH FEW LABELS**](https://github.com/ThinamXx/Transformers_NLP/tree/main/02.%20NLP%20with%20Transformers/09.%20Dealing%20with%20Labels) 
+- The Dealing with Few Labels notebook contains information about Building GitHub Issues Tagger, Creating Training Slices, Implementing Naive Bayesline, Data Augmentation, Embeddings, Fine-Tuning Vanilla Transformer, Leveraging Unlabeled Data and Fine-Tuning Classifier.
